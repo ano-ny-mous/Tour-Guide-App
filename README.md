@@ -2,6 +2,24 @@
 
 The **Tour Guide App** is a simple mobile application that provides users with information about various tour destinations, including historical places, shopping places, hotels, and food options. The app allows users to explore different categories, view details of individual tour items, and get a summary of each selected item.
 
+## Screenshots
+
+<img src="https://github.com/ano-ny-mous/Tour-Guide-App/assets/91519560/4ea1a878-8a21-478f-b01e-fc3bc7896274" alt="Screenshot 1" width="300" >
+
+<img src="https://github.com/ano-ny-mous/Tour-Guide-App/assets/91519560/3950c4d6-c3c7-426b-98a1-ae0a6bd6bd7c" alt="Screenshot 2" width="300" >
+
+<img src="https://github.com/ano-ny-mous/Tour-Guide-App/assets/91519560/b2fc1893-0773-4806-871b-e43469b5dd70" alt="Screenshot 3" width="300" >
+
+<img src="https://github.com/ano-ny-mous/Tour-Guide-App/assets/91519560/c0840b76-ae28-4510-b5da-64bc051f5e73" alt="Screenshot 4" width="300" >
+
+<img src="https://github.com/ano-ny-mous/Tour-Guide-App/assets/91519560/81022b0e-ad19-402a-8561-29842aedf0c6" alt="Screenshot 5" width="300" >
+
+<img src="https://github.com/ano-ny-mous/Tour-Guide-App/assets/91519560/19dc1834-7597-48fc-a824-ef95cec39283" alt="Screenshot 6" width="300" >
+
+<img src="https://github.com/ano-ny-mous/Tour-Guide-App/assets/91519560/71e89ff2-eb79-4b43-bd69-5828dc804648" alt="Screenshot 7" width="300" >
+
+<img src="https://github.com/ano-ny-mous/Tour-Guide-App/assets/91519560/15e013f5-1589-4a9a-bd2d-04ef7e2940d4" alt="Screenshot 8" width="300" >
+
 ## Features
 
 - **Tab Navigation:** The app features a user-friendly tab layout that allows users to easily switch between different categories: Historical Places, Shopping Places, Hotels, and Food.
