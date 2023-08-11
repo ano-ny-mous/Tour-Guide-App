@@ -1,0 +1,65 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Tour Guide App</string>
+    <string name="summary">Summary</string>
+    <string name="summaryActivity">Summary</string>
+    <string name="historicalplacestab">Places</string>
+    <string name="shoppingtab">Shopping</string>
+    <string name="hotelstab">Hotels</string>
+    <string name="foodtab">Food</string>
+
+    <string name="food1name">Murg Makhani</string>
+    <string name="food2name">Tandoori Chicken</string>
+    <string name="food3name">Chole</string>
+    <string name="food4name">Naan</string>
+    <string name="food5name">Chicken Tikka Masala</string>
+    <string name="food1distance">4Km</string>
+    <string name="food2distance">12Km</string>
+    <string name="food3distance">6Km</string>
+    <string name="food4distance">11Km</string>
+    <string name="food5distance">3Km</string>
+    <string name="food1sum">Butter Chicken or Makhan Murg in Hindi is one of the most popular Indian dishes. Makhan, in Hindi, stands for Butter and Murg means chicken, which literally translates to butter chicken. Initially originating in the northern Indian state of Punjab, butter chicken features a beautifully cooked chicken mixed in with a tomato curry sauce, resulting in a popular curry that has gained international fame. Butter chicken was first invented by accident in the Moti Mahal restaurant in New Delhi when leftover chicken pieces were mixed with leftover sauce. This dish is enjoyed with naan, roti or even with rice.</string>
+    <string name="food2sum">Tandoori chicken is another North Indian dish that may have been around back in 3000 BC. Tandoori Chicken derives its name for the vessel it\'s cooked in known as a Tandoor Oven. It is a cylindrical shaped oven that is powered by burning wood or charcoal. The Tandoor Oven is made of either clay or metal and offers a distinct taste to meals cooked within it. Tandoori Chicken consists of chicken that is marinated for a few days in a mixture of yogurt and tandoori masala, a blend of traditional Indian spices. Following this, the chicken is then cooked.</string>
+    <string name="food3sum">Come breakfast, lunch or dinner—this Punjabi dish is a favourite at any time of the day. Any Indian who has ever got the opportunity to sample even a few bites of these mammoth sized puris along with chhole and achari aloo on the side, would have fallen in love with this dish and keeps asking for more. The most interesting thing about chole bhature is that it is a dish which is considered for any meal of the day, be it breakfast, lunch or even an evening snack. A spicy, curried chickpea dish served with fried flour bread, chole bhature is best washed down with a glass of chilled lassi.</string>
+    <string name="food4sum">Naan is one of the most popular flat breads served with South Asian food. In particular, accompanying food from the Northern Area of India, Pakistan, Afghanistan, Bangladesh, Iran, Uzbekistan, Tajizkistan and surrounding areas. Have you ever been spoilt for choice for its vast selection today and wondered about its origin? We explore and discover more about this delightful and enjoyable flat bread which is popular in many parts of the world including the UK, USA and Canada. The Naan originates from India but is today eaten in most types of South Asian restaurants and homes around the globe. It has transformed from a basic form of bread for many to experimental creations by chefs and food enthusiasts today with different fillings and flavours.</string>
+    <string name="food5sum">A yummy creamy chicken recipe with a thick gravy. Chicken tikka is a popular dish in the food menu of many north Indian restaurants as well as dinner parties at home. It is a versatile dish to cook since you can prepare it as a snack without gravy or this recipe would help you make chicken tikka with gravy as a main course dish. Full of flavor and masala, chicken tikka masala is just the perfect recipe for a dinner party this festive season. Pair with rice or naan for the perfect meal.</string>
+
+    <string name="historicalplace1name">Taj Mahal</string>
+    <string name="historicalplace2name">Qutub Minar</string>
+    <string name="historicalplace3name">Mysore Palace</string>
+    <string name="historicalplace4name">Gateway of India</string>
+    <string name="historicalplace4distance">14Km</string>
+    <string name="historicalplace1distance">54Km</string>
+    <string name="historicalplace2distance">64Km</string>
+    <string name="historicalplace3distance">41Km</string>
+    <string name="historicalplace1sum">This epitome of Mughal architecture, built entirely with white marble is one of the most well-known identifiers of India. Its grandeur and beauty will have you spellbound.\n\nShah Jahan built this paragon for his wife Mumtaz Mahal to enunciate his love for her.\n\nSituated in one of the “Golden Triangle” cities, you also get an opportunity to explore the streets of Agra.\n\nEntry fee: Indian – INR 40, Foreigner- INR 1000\n\nTimings: 6:30 am to 9:30 pm (closed on Fridays)</string>
+    <string name="historicalplace2sum">One of the tallest creations in the Indian history is the Qutub Minar. With its red sandstone and aesthetic Iranian architecture, the minaret is the most famous tourist attraction in India.\n\nThis UNESCO World Heritage site towers at a  height of 240 feet making it one of the tallest ancient towers across the globe. Assimilate history of the minaret by reading the inscriptions engraved in Parso-Arabic and Nagari characters.\n\nBuilt by Qutub Ud-Din-Aibak in the nineteenth century this tower is a must visit place in Delhi.\n\nEntry fee: for Indians- INR 10 and Foreigners- INR 250\n\nTimings: 7 am to 5 pm</string>
+    <string name="historicalplace3sum">Built by British architect Lord Henry Irwin in 1912, Mysore Palace is located in the heart of the city. An architectural wonder built in Indo Saracenic style, this palace features intricate interiors. Interestingly,  Golden palanquin was used by the Maharaja which was then carried by elephants during the annual Dasara festivities. Goddess Durga’s idol is now placed inside the palanquin.\n\nThe months between October to March are the most pleasant and offer a comfortable stay here. Avoid summers as they are very sultry hot.\n\nEntry fee: Indians- INR 40 and Foreigners- INR 200.\n\nTimings: 10 am – 5.30 pm (Closed on Sundays and govt holidays)</string>
+    <string name="historicalplace4sum">One of India’s iconic landmarks, Gateway of India overlooking the Mumbai Harbour was built by the British in 1924.\n\nIn the modern times, the Gateway is a favorite picnic spot for locals and tourists, alike.\n\nDotted by dozens of street vendors serving lip-smacking local food along with balloon sellers, give this place a pleasingly happy vibe.\n\nTimings: Visit anytime.\n\nEntry fee: No charges</string>
+
+    <string name="shoppingplace1name">MG Road</string>
+    <string name="shoppingplace2name">Majestic Market</string>
+    <string name="shoppingplace3name">T. Nagar</string>
+    <string name="shoppingplace4name">Cotton Street</string>
+    <string name="shoppingplace1distance">4Km</string>
+    <string name="shoppingplace2distance">55Km</string>
+    <string name="shoppingplace3distance">36Km</string>
+    <string name="shoppingplace4distance">102Km</string>
+    <string name="shoppingplace1sum">Bangalore is famous for its silk sarees and handmade crafts. Here you will find multiple shops that sell silk at a very reasonable price that will attract especially the ladies. There are other shops too which deal with handmade sandalwood and rosewood face and body products. These are products that make the most sale since they are of very good quality.\n\nMG Road is also a great place to buy handicrafts which consist of hand painted and hand carved pots and cloth materials, wall hangings and other decors. MG Road is a collection of multiple shops, bars and restaurants that stay open till midnight. Higginbothams, India’s oldest bookstore found in 1844 is located in MG Road.\n\nLocation: MG Road, Bengaluru, Karnataka.</string>
+    <string name="shoppingplace2sum">As the name suggests this market is a beautiful place with a blend of Chinese and Indian style markets. Both exported and local products are sold in this market and broaden the variety of product. Also, you can get gadgets and many digital accessories for cheap prices but make sure to check the defects and the authenticity of the brand.\n\nTwo very famous markets, Burma Bazar and the Hong Kong market, are located in the Majestic Market. These two markets have brought revolution to the shopping experience, having a strong Chinese influence. To get the best deals bargain with the shopkeeper before paying the amount asked by the shopkeeper. The market is home to a railway station, a bus station and a metro station which makes it easily accessible to the public.\n\nLocation: Majestic bus stand, Bengaluru, Karnataka.</string>
+    <string name="shoppingplace3sum">Thyagaraya Nagar, better known as T. Nagar is the most sought-after shopping destination in Chennai. The area is full of saree stores that sell the indigenous designs of the city along with huge jewellery stores that offer a wide range of beautiful gold ornaments.\n\nBest buy: Traditional sarees and gold jewellery</string>
+    <string name="shoppingplace4sum">If you are looking for some budget buys in Chennai, make sure you make a trip to Cotton Street. The modest street has hawker stalls that sell the beautiful cotton fabric at thirty rupees a meter. You can get dupattas and cotton kurtas as well as sarees in this place without burning a hole in your pocket.\n\nBest buy: Cotton fabric for your custom designs</string>
+
+    <string name="hotel1name">Taj Lake Palace</string>
+    <string name="hotel2name">Taj Mahal Palace</string>
+    <string name="hotel3name">Oberoi Udaivilas</string>
+    <string name="hotel4name">Oberoi Vanyavilas</string>
+    <string name="hotel1distance">23Km</string>
+    <string name="hotel2distance">41Km</string>
+    <string name="hotel3distance">314Km</string>
+    <string name="hotel4distance">44Km</string>
+    <string name="hotel1sum">Matchless hospitality, award-wining restaurants, impeccable services are offered at Taj Lake Palace in Udaipur.  It comprises 66 well designed rooms and 17 suites that come with modern and essential amenities like LCD TV, electronic safe, mini bar, tea/coffee maker and attached washroom. The hotel features conference room for formal and informal gatherings. Visitors can also relish a boat ride on the scenic lake that surrounds the palace. A variety of Indian and international dishes are tendered at the restaurants which has both indoor and outdoor seating facilities.</string>
+    <string name="hotel2sum">An idyllic amalgamation of opulence, comfort and leisure, The Taj Mahal Palace is a 21 years old building in the Colaba region of Mumbai. It has 560 rooms and 44 suites which are designed keeping in mind the taste of today’s travelers. Situated just 20 miles from the international airport, the hotel has been visited by many famous celebrities from India as well as foreign countries like Bill Clinton, Hillary Clinton, Angelina Jolie and many more. The palace offers a wide array of Indian, Chinese, Italian and continental cuisines to gratify the hunger of the visitors.</string>
+    <string name="hotel3sum">Perched on the banks of Lake Pichola in the romantic city of Udaipur, The Oberoi Udaivilas is a luxury property that exudes the lifestyles of kings and queens of bygone era. It is just 2 miles from the city center and 19 miles from the airport. There are 87 well furnished rooms that are endowed with flat screen satellite TVs, electronic safe, tea/coffee maker, mini bar and attached washroom. One can also relish a boat ride along with a sip of wine or any of his/her favorite drink. The restaurants at The Oberoi Udaivilas satisfy the taste buds of the guests by serving a variety of Indian, Chinese, Rajasthani and continental dishes.</string>
+    <string name="hotel4sum">One of the best luxury hotels based on  trip advisor rating, The Oberoi Vanyavilas is nestled at the edge of Ranthambore Tiger Reserve just 5 km from Sawai Madhopur railway station. The setting of the resort is charming with luxury tents which have wooden flooring, private walled garden and luxurious washroom. One can also take delight in invigorating message or yoga classes at picturesque settings. The restaurant offers its guests the taste of both the worlds. Be it Indian, Chinese, continental or European. Experience a vacation of a lifetime scouting wildlife and spending some good time with loved ones at luxury tents of this resort.</string>
+
+</resources>
